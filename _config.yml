@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+title: Placebo Imaging Consortium
+description:
+logo: fig/logo.png
+google_analytics: UA-120757757-4
+plugins:
+  - jemoji
