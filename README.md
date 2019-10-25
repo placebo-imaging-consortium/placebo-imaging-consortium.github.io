@@ -1,6 +1,6 @@
-# Placebo Imaing Consortium
+# Placebo Imaging Consortium
 
-## An international consortium to foster the understanding of the placebo-effect with neuroimaing.
+## *An international consortium to foster the understanding of the placebo-effect with neuroimaing.*
 #### *Since 2015*
 
 *This website is under construction*
