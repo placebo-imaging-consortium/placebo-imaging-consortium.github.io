@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Placebo Imaing Consortium
 
-You can use the [editor on GitHub](https://github.com/placebo-imaging-consortium/placebo-imaging-consortium.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## An international consortium to foster the understanding of the placebo-effect with neuroimaing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*This website is under construction*
 
-### Markdown
+### Consortium Leaders
+[Ulrike Binel](https://www.uk-essen.de/clinical_neurosciences_bingel), [Tor Wager](https://pbs.dartmouth.edu/people/tor-wager), [Matthias Zunhammer](https://www.uk-essen.de/clinical_neurosciences_bingel/), [Tamas Spisak](https://pni-lab.github.io)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Consortium Members
+Lauren Atlas, PhD, National Center for Complementary and Integrative Health, National Institutes of Health, Bethesda, Maryland, and National Institute on Drug Abuse, National Institutes of Health, Baltimore, Maryland; Fabrizio Benedetti, MD, University of Turin, Turin, Italy and Plateau Rosà Labs, Plateau Rosà, Switzerland; Christian Büchel, MD, University Medical Center Hamburg–Eppendorf, Hamburg, Germany; Jae Chan Choi, MD, PhD, Yonsei University, Wonju, South Korea; Luana Colloca, MD, PhD, University of Maryland, Baltimore, Maryland; Davide Duzzi, PhD, University of Modena e Reggio Emilia, Modena, Italy; Falk Eippert, PhD, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany; Dan-Mikael Ellingsen, PhD, Harvard Medical School, Cambridge, Massachusetts; Sigrid Elsenbruch, PhD, Essen University Hospital, Essen, Germany; Stephan Geuter, PhD, Johns Hopkins University, Baltimore, Maryland; Ted J. Kaptchuk, Beth Israel Deaconess Medical, Harvard Medical School, Boston, Massachusetts; Simon S. Kessner, MD, University Medical Center Hamburg–Eppendorf, Hamburg, Germany; Irving Kirsch, PhD, Harvard Medical School, Cambridge, Massachusetts; Jian Kong, MD, Massachusetts General Hospital, Harvard Medical School, Cambridge, Massachusetts; Claus Lamm, PhD, University of Vienna, Vienna, Austria; Siri Leknes, PhD, University of Oslo, Oslo, Norway; Alexa Müllner-Huber, PhD, PhD, University of Vienna, Vienna, Austria; Fausta Lui, MD, University of Modena e Reggio Emilia, Modena, Italy; Carlo A. Porro, MD, PhD, University of Modena e Reggio Emilia, Modena, Italy; Markus Rütgen, PhD, University of Vienna, Vienna, Austria; Lieven Schenk, PhD, Social Neuroscience Lab, Max Planck Society, Berlin, Germany; Julia Schmid, PhD, Essen University Hospital, Essen, Germany; Nina Theysohn, MD, Essen University Hospital, Essen, Germany; Irene Tracey, PhD, University of Oxford, Oxford, United Kingdom; Nathalie Wrobel, PhD, Karolinska Institute, Solna, Sweden; Fadel Zeidan, PhD, Wake Forest School of Medicine, Winston-Salem, North Carolina.
 
-```markdown
-Syntax highlighted code block
+### Founded on 06th May 2015
 
-# Header 1
-## Header 2
-### Header 3
+## Publications
+Zunhammer M, Bingel, U, Wager, TD, on behalf of the Placebo Imaging Consortium (2018). **Placebo Effects on the Neurologic Pain Signature. A Meta-analysis of Individual Participant Functional Magnetic Resonance Imaging Data.** JAMA Neurol. doi:10.1001/jamaneurol.2018.2017
 
-- Bulleted
-- List
+Zunhammer M, Bingel U, Wager TD, **Laterality and Stimulation Bias in Meta-analysis of Placebo Responses—Reply.** JAMA neurology. 2019 May 20.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/placebo-imaging-consortium/placebo-imaging-consortium.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Zunhammer M, Spisák T, Wager TD, Bingel U, on behalf of the Placebo Imaging Consortium, **Neural systems underlying placebo analgesia – a meta-analysis of individual participant fMRI data**, under review.
