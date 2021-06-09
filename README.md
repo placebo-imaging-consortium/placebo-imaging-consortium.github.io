@@ -6,7 +6,7 @@
 *This website is under construction*
 
 ### Consortium Leaders
-[Ulrike Bingel](https://www.uk-essen.de/clinical_neurosciences_bingel), [Tor Wager](https://pbs.dartmouth.edu/people/tor-wager), [Matthias Zunhammer](https://www.uk-essen.de/clinical_neurosciences_bingel/), [Tamas Spisak](https://pni-lab.github.io)
+[Ulrike Bingel](https://www.uk-essen.de/clinical_neurosciences_bingel), [Tor Wager](https://pbs.dartmouth.edu/people/tor-wager), [Matthias Zunhammer](https://www.uk-essen.de/clinical_neurosciences_bingel/), [Tamas Spisak](https://pni-lab.github.io), [Balint Kincses](https://pni-lab.github.io)
 
 ### Consortium Members
 *Lauren Atlas, PhD, National Center for Complementary and Integrative Health, National Institutes of Health, Bethesda, Maryland, and National Institute on Drug Abuse, National Institutes of Health, Baltimore, Maryland*
@@ -68,4 +68,4 @@ Zunhammer M, Bingel, U, Wager, TD, on behalf of the Placebo Imaging Consortium (
 
 Zunhammer M, Bingel U, Wager TD, **Laterality and Stimulation Bias in Meta-analysis of Placebo Responses—Reply.** JAMA neurology. 2019 May 20.
 
-Zunhammer M, Spisák T, Wager TD, Bingel U, on behalf of the Placebo Imaging Consortium, **Neural systems underlying placebo analgesia – a meta-analysis of individual participant fMRI data**, under review.
+Zunhammer M, Spisák T, Wager TD, Bingel U. **Meta-analysis of neural systems underlying placebo analgesia from individual participant fMRI data.** Nature communications. 2021 Mar 2;12(1):1-1.
