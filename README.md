@@ -6,7 +6,7 @@
 *This website is under construction*
 
 ### Consortium Leaders
-[Ulrike Bingel](https://www.uk-essen.de/clinical_neurosciences_bingel), [Tor Wager](https://pbs.dartmouth.edu/people/tor-wager), [Matthias Zunhammer](https://www.uk-essen.de/clinical_neurosciences_bingel/), [Tamas Spisak](https://pni-lab.github.io), [Balint Kincses](https://pni-lab.github.io)
+[Ulrike Bingel](https://www.uk-essen.de/clinical_neurosciences_bingel), [Tor Wager](https://pbs.dartmouth.edu/people/tor-wager), [Matthias Zunhammer](https://www.uk-essen.de/clinical_neurosciences_bingel/), [Tamas Spisak](https://pni-lab.github.io)
 
 ### Consortium Members
 *Lauren Atlas, PhD, National Center for Complementary and Integrative Health, National Institutes of Health, Bethesda, Maryland, and National Institute on Drug Abuse, National Institutes of Health, Baltimore, Maryland*
