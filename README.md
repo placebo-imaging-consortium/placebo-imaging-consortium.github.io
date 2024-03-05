@@ -49,7 +49,7 @@
 
 *Markus Rütgen, PhD, University of Vienna, Vienna, Austria*
 
-*Lieven Schenk, PhD, Social Neuroscience Lab, Max Planck Society, Berlin, Germany*
+*Lieven A. Schenk, PhD, University Medical Center Hamburg-Eppendorf, Hamburg, Germany*
 
 *Julia Schmid, PhD, Essen University Hospital, Essen, Germany*
 
@@ -66,6 +66,6 @@
 ## Publications
 Zunhammer M, Bingel U, Wager TD, Placebo Imaging Consortium. **Placebo effects on the neurologic pain signature: a meta-analysis of individual participant functional magnetic resonance imaging data.** JAMA neurology. 2018 Nov 1;75(11):1321-30. [doi: 10.1001/jamaneurol.2018.2017](https://doi.org/10.1001/jamaneurol.2018.2017)
 
-Zunhammer M, Bingel U, Wager TD, Placebo Imaging Consortium. **Laterality and Stimulation Bias in Meta-analysis of Placebo Responses—Reply.** JAMA neurology. 2019 May 20. [doi: 10.1001/jamaneurol.2019.1229](https://doi.org/10.1001/jamaneurol.2019.1229)
+Zunhammer M, Bingel U, Wager TD, Placebo Imaging Consortium. **Laterality and Stimulation Bias in Meta-analysis of Placebo Responses—Reply.** JAMA neurology. 2019 May 20. [doi: 10.1001/jamaneurol.2019.1232](https://doi.org/10.1001/jamaneurol.2019.1232)
 
 Zunhammer M, Spisák T, Wager TD, Bingel U., Placebo Imaging Consortium.  **Meta-analysis of neural systems underlying placebo analgesia from individual participant fMRI data.** Nature communications. 2021 Mar 2;12(1):1-1. [doi: 10.1038/s41467-021-21179-3](https://doi.org/10.1038/s41467-021-21179-3)
