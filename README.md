@@ -41,6 +41,8 @@
 
 *Siri Leknes, PhD, University of Oslo, Oslo, Norway*
 
+*Helena Hartmann, PhD, University Hospital Essen, Essen, Germany*
+
 *Alexa Müllner-Huber, PhD, PhD, University of Vienna, Vienna, Austria*
 
 *Fausta Lui, MD, University of Modena e Reggio Emilia, Modena, Italy*
