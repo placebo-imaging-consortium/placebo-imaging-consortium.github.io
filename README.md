@@ -3,31 +3,31 @@
 ## *An international consortium to foster the understanding of the placebo-effect with neuroimaing.*
 #### *Since 2015*
 
-*This website is under construction*
-
 ### Consortium Leaders
-[Ulrike Bingel](https://www.uk-essen.de/clinical_neurosciences_bingel), [Tor Wager](https://pbs.dartmouth.edu/people/tor-wager), [Matthias Zunhammer](https://www.uk-essen.de/clinical_neurosciences_bingel/), [Tamas Spisak](https://pni-lab.github.io)
+[Ulrike Bingel](https://www.uk-essen.de/clinical_neurosciences_bingel), [Tor Wager](https://pbs.dartmouth.edu/people/tor-wager), [Matthias Zunhammer](https://www.uk-essen.de/clinical_neurosciences_bingel/), [Balint Kincses](https://www.bingellab.de/), and [Tamas Spisak](https://pni-lab.github.io).
 
 ### Consortium Members
-*Lauren Atlas, PhD, National Center for Complementary and Integrative Health, National Institutes of Health, Bethesda, Maryland, and National Institute on Drug Abuse, National Institutes of Health, Baltimore, Maryland*
+*Lauren Atlas, PhD, National Center for Complementary and Integrative Health and National Institute of Mental Health, National Institutes of Health, Bethesda, Maryland, and National Institute on Drug Abuse, National Institutes of Health, Baltimore, Maryland*
 
 *Fabrizio Benedetti, MD, University of Turin, Turin, Italy and Plateau Rosà Labs, Plateau Rosà, Switzerland*
 
 *Christian Büchel, MD, University Medical Center Hamburg–Eppendorf, Hamburg, Germany*
 
-*Jae Chan Choi, MD, PhD, Yonsei University, Wonju, South Korea*
+*Jae Chan Choi, MD, PhD, Graduate School of Seoul Cyber University, Seoul, South Korea; Yonsei University, Wonju College of Medicine, Wonju, South Korea, Cham Psychology Brain Health Institute, Seoul, South Korea*
 
 *Luana Colloca, MD, PhD, University of Maryland, Baltimore, Maryland*
 
-*Davide Duzzi, PhD, University of Modena e Reggio Emilia, Modena, Italy*
+*Davide Duzzi, PhD, Università di Bologna, Italy*
 
 *Falk Eippert, PhD, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany*
 
-*Dan-Mikael Ellingsen, PhD, Harvard Medical School, Cambridge, Massachusetts*
+*Dan-Mikael Ellingsen, PhD, Department of Physics and Computation al Radiology, Division of Radiology and Nuclear Medicine, Oslo University Hospital AND School of Health Sciences, Kristiania University of Applied Sciences*
 
-*Sigrid Elsenbruch, PhD, Essen University Hospital, Essen, Germany*
+*Sigrid Elsenbruch, PhD, Department for Neurology and Center for Translational and Behavioral Neuroscience, University Hospital Essen, Essen; Department of Medical Psychology and Medical Sociology, Ruhr University Bochum, Bochum, Germany*
 
 *Stephan Geuter, PhD, Johns Hopkins University, Baltimore, Maryland*
+
+*Helena Hartmann, PhD, Clinical Neurosciences, Department for Neurology and Center for Translational and Behavioral Neuroscience, University Hospital Essen, Essen, Germany*
 
 *Ted J. Kaptchuk, Beth Israel Deaconess Medical, Harvard Medical School, Boston, Massachusetts*
 
@@ -40,8 +40,6 @@
 *Claus Lamm, PhD, University of Vienna, Vienna, Austria*
 
 *Siri Leknes, PhD, University of Oslo, Oslo, Norway*
-
-*Helena Hartmann, PhD, University Hospital Essen, Essen, Germany*
 
 *Alexa Müllner-Huber, PhD, PhD, University of Vienna, Vienna, Austria*
 
