@@ -1,6 +1,7 @@
 ![image](fig/sfb_trr_289-logo_jkb_farbe.png)
 
-# Sex/gender effects in placebo analgesia and nocebo hyperalgesia 
+# Sex/gender differences in placebo analgesia and nocebo hyperalgesia: A pooled individual participant data analysis and living data resource
+
 
 In 2025, the Placebo Imaging Consortium (PIC) joined forces with the Collaborative Research Center SFB/TRR 289 "Treatment Expectation" to create a meta-analytic dataset that investigates both participant and experimenter sex/gender effects in placebo analgesia and nocebo hyperalgesia. At the moment, we are focusing on behavioral effects, but also want to investigate neuroimaging measures later.
 
@@ -38,13 +39,13 @@ In 2025, the Placebo Imaging Consortium (PIC) joined forces with the Collaborati
 
 *Nina Theysohn, MD, Essen University Hospital, Essen, Germany*
 
+*Zhaoxing Wei, PhD, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, United States*
+
 *Nathalie Wrobel, PhD, Karolinska Institute, Solna, Sweden*
 
 *Fadel Zeidan, PhD, Wake Forest School of Medicine, Winston-Salem, North Carolina, United States*
 
-### Other involved authors
-
-*Andrea S. Armbruster, Department of Psychology and Behavioural Science, School of Business and Social Sciences, Aarhus University, Aarhus, Denmark*
+### Additional authors from the CRC/TRR 289
 
 *Katharina Schmidt, PhD, Clinical Neurosciences, Department for Neurology and Center for Translational and Behavioral Neuroscience, University Hospital Essen, Essen, Germany*
 
@@ -56,13 +57,15 @@ In 2025, the Placebo Imaging Consortium (PIC) joined forces with the Collaborati
 
 *Dagmar Timmann-Braun, PhD, Clinical Neurosciences, Department for Neurology and Center for Translational and Behavioral Neuroscience, University Hospital Essen, Essen, Germany*
 
-*Zhaoxing Wei, PhD, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH, United States*
-
 *Katja Wiech, PhD, Clinical Neurosciences, Department for Neurology and Center for Translational and Behavioral Neuroscience, University Hospital Essen, Essen, Germany*
 
 *Christoph Wittkamp, PhD, Department of Systems Neuroscience, University Medical Center Hamburg-Eppendorf, Hamburg, Germany*
 
 *Maren-Isabel Wolf, PhD, Department of Systems Neuroscience, University Medical Center Hamburg-Eppendorf, Hamburg, Germany*
+
+### Other involved authors
+
+*Andrea S. Armbruster, Department of Psychology and Behavioural Science, School of Business and Social Sciences, Aarhus University, Aarhus, Denmark*
 
 ## Publications
 tbd
