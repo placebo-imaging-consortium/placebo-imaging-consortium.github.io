@@ -1,6 +1,6 @@
 # Placebo Imaging Consortium
 
-## *An international consortium to foster the understanding of the placebo-effect with neuroimaing.*
+## *An international consortium to foster the understanding of the placebo effect with neuroimaging.*
 #### *Since 2015*
 
 ### Consortium Leaders
@@ -24,6 +24,8 @@
 *Dan-Mikael Ellingsen, PhD, Department of Physics and Computation al Radiology, Division of Radiology and Nuclear Medicine, Oslo University Hospital; School of Health Sciences, Kristiania University of Applied Sciences, Norway*
 
 *Sigrid Elsenbruch, PhD, Department for Neurology and Center for Translational and Behavioral Neuroscience, University Hospital Essen; Department of Medical Psychology and Medical Sociology, Ruhr University Bochum, Germany*
+
+*Sonya Freeman, PhD, Psychiatry Department, Massachusetts General Hospital, Harvard Medical School, Charlestown, MA, USA*
 
 *Stephan Geuter, PhD, Johns Hopkins University, Baltimore, Maryland, United States*
 
@@ -49,7 +51,7 @@
 
 *Marian van der Meulen, PhD, Faculty of Humanities, Education and Social Sciences, Université du Luxembourg, Luxembourg*
 
-*Alexa Müllner-Huber, PhD, PhD, University of Vienna, Vienna, Austria*
+*Alexa Müllner-Huber, PhD, University of Vienna, Vienna, Austria*
 
 *Fausta Lui, MD, University of Modena e Reggio Emilia, Modena, Italy*
 
@@ -65,21 +67,25 @@
 
 *Irene Tracey, PhD, University of Oxford, Oxford, United Kingdom*
 
-*Nathalie Wrobel, PhD, Karolinska Institute, Solna, Sweden*
+*Zhaoxing Wei, PhD, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, New Hampshire*
+
+*Nathalie Wrobel, MD, PhD, Karolinska Institute, Solna, Sweden*
 
 *Fadel Zeidan, PhD, Wake Forest School of Medicine, Winston-Salem, North Carolina, United States*
 
 ![map](fig/PastedGraphic-3.png)
 
 ## Publications
-Zunhammer M, Bingel U, Wager TD, Placebo Imaging Consortium. **Placebo effects on the neurologic pain signature: a meta-analysis of individual participant functional magnetic resonance imaging data.** JAMA Neurology. 2018 Nov 1;75(11):1321-30. [doi: 10.1001/jamaneurol.2018.2017](https://doi.org/10.1001/jamaneurol.2018.2017)
-
-Zunhammer M, Bingel U, Wager TD, Placebo Imaging Consortium. **Laterality and Stimulation Bias in Meta-analysis of Placebo Responses—Reply.** JAMA Neurology. 2019 May 20. [doi: 10.1001/jamaneurol.2019.1232](https://doi.org/10.1001/jamaneurol.2019.1232)
+Spisák T, Hartmann H, Zunhammer M, Kincses B, Wiech K, Wager TD, Bingel U., Placebo Imaging Consortium. **Meta-analytic evidence for distinct neural correlates of conditioned vs. verbally induced placebo analgesia.** Nature Communications. 2026 July 17. [doi: 10.1038/s41467-026-74743-0](https://doi.org/10.1038/s41467-026-74743-0)
 
 Zunhammer M, Spisák T, Wager TD, Bingel U., Placebo Imaging Consortium. **Meta-analysis of neural systems underlying placebo analgesia from individual participant fMRI data.** Nature Communications. 2021 Mar 2;12(1):1-1. [doi: 10.1038/s41467-021-21179-3](https://doi.org/10.1038/s41467-021-21179-3)
 
+Zunhammer M, Bingel U, Wager TD, Placebo Imaging Consortium. **Laterality and Stimulation Bias in Meta-analysis of Placebo Responses—Reply.** JAMA Neurology. 2019 May 20. [doi: 10.1001/jamaneurol.2019.1232](https://doi.org/10.1001/jamaneurol.2019.1232)
+
+Zunhammer M, Bingel U, Wager TD, Placebo Imaging Consortium. **Placebo effects on the neurologic pain signature: a meta-analysis of individual participant functional magnetic resonance imaging data.** JAMA Neurology. 2018 Nov 1;75(11):1321-30. [doi: 10.1001/jamaneurol.2018.2017](https://doi.org/10.1001/jamaneurol.2018.2017)
+
 ## Preprints
+Wei Z, Spisák T, Timmann D, Scherrer G, Bingel U, Wager TD, Placebo Imaging Consortium. **Cerebellar activation in human placebo analgesia: Bridging findings from mice to humans.** BioRxiv. 2026 April 8. [doi: 10.64898/2026.04.07.717067](https://doi.org/10.64898/2026.04.07.717067)
 
-Wei Z, Spisák T, Timmann D, Scherrer G, Bingel U, Wager TD, Placebo Imaging Consortium. **Cerebellar activation in human placebo analgesia: Bridging findings from mice to humans.** BioRxiv. 2026 April 8; [doi: 10.64898/2026.04.07.717067](https://doi.org/10.64898/2026.04.07.717067)
-
-Spisák T, Hartmann H, Zunhammer M, Kincses B, Wiech K, Wager TD, Bingel U., Placebo Imaging Consortium. **Meta-analytic evidence for distinct neural correlates of conditioned vs. verbally induced placebo analgesia.** BioRxiv. 2025 May 21; [doi: 10.1101/2025.05.21.655287](https://doi.org/10.1101/2025.05.21.655287)
+## Associated projects
+[Sex/gender differences in placebo analgesia and nocebo hyperalgesia: A pooled individual participant data analysis and living data resource](SFB_Gender_Project.md) (together with the Collaborative Research Center SFB/TRR 289 "Treatment Expectation") 
